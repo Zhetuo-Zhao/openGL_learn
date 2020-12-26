@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\zzhao\source\repos\openGL_helloWorld\openGL_helloWorld\shader_s.h(43,40): warning C4101: 'e': unreferenced local variable
+  openGL_helloWorld.vcxproj -> C:\Users\zzhao\source\repos\openGL_helloWorld\x64\Debug\openGL_helloWorld.exe

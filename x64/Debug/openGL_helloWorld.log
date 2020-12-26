@@ -1,3 +1,5 @@
 ﻿  main.cpp
 C:\Users\zzhao\source\repos\openGL_helloWorld\openGL_helloWorld\shader_s.h(43,40): warning C4101: 'e': unreferenced local variable
+C:\Users\zzhao\source\repos\openGL_helloWorld\openGL_helloWorld\main.cpp(213,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\zzhao\source\repos\openGL_helloWorld\openGL_helloWorld\main.cpp(214,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
   openGL_helloWorld.vcxproj -> C:\Users\zzhao\source\repos\openGL_helloWorld\x64\Debug\openGL_helloWorld.exe
